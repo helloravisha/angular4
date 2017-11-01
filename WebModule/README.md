@@ -16,5 +16,5 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 
 Thanks,
-Ravihsa..
+Ravisha..
 
